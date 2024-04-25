@@ -1,0 +1,6 @@
+ docker pull localhost:5000/redis
+ 
+ docker tag redis localhost:5000/redis
+
+ docker push localhost:5000/redis
+
